@@ -1,0 +1,16 @@
+
+baseURL = "/"
+languageCode = "en-us"
+title = "Violet Growth Blog"
+theme = "custom"
+
+[params]
+  description = "Deep-dive articles on SaaS growth, agency scaling, and outbound sales systems."
+  author = "Editorial Team"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
