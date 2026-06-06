@@ -1,4 +1,9 @@
 ---
+image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&h=450&fit=crop&auto=format&q=80"
+cover:
+  image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&h=450&fit=crop&auto=format&q=80"
+  alt: "cover"
+  relative: false
 title: "Welcome to Violet Growth Blog"
 date: 2026-06-01
 description: "Deep-dive articles on SaaS growth, agency scaling, and outbound sales systems."
